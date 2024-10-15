@@ -13,7 +13,7 @@ st.title("Detector de Visuales.")
 st.subheader("Vamos a descubrir si eres un VJ.")
 
 # Cambia la ruta de la imagen para asegurarte de que está en la carpeta Traductor
-image = Image.open('Traductor/Afterlife_LATAM.jpg')
+image = Image.open('Traductor/Tranli.jpg')
 st.image(image, width=300)
 
 with st.sidebar:
