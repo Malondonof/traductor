@@ -9,7 +9,7 @@ import glob
 from gtts import gTTS
 from googletrans import Translator
 
-st.title("Detector de Visuales.")
+st.title("Traductor.")
 st.subheader("Vamos a descubrir si eres un VJ.")
 
 # Cambia la ruta de la imagen para asegurarte de que está en la carpeta Traductor
